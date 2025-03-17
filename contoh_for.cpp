@@ -17,5 +17,13 @@ int main(){
     }
     cout << "Nilai n Terahir = " << n << endl;
     cout << endl;
-    
+
+    cout << "Perulaangan for pencacah turun" << endl;
+    //perulangan dengan for
+    for (n = 5; n > 0; n--)
+    {
+        cout << "Nilai n = " << n << " Selamat Datang" << endl;
+    }
+    cout << "Nilai n Terahir = " << n << endl;
+    cout << endl;
 }
